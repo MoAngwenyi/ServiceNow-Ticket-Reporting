@@ -1,0 +1,11 @@
+ticket_id,issue_type,department,status,resolution_time_mins
+1,Software Bug,Finance,Open,0
+2,Software Expiry,IT,Closed ,30
+3,Software Bug,HR,Open,0
+4,Login Issue,IT,Closed,15
+5,Network Issue,HR,Closed,25
+6,Network Issue,Finance,Open,0
+7,Login Issue,Marketing,Open,0
+8,Login Issue,Marketing,Closed,30
+9,Login Issue,Admin,Closed,10
+10,Network Issue,Admin,Closed,45
